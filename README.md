@@ -1,3 +1,3 @@
 # Informe-De-Laboratorio
 ## Acceso
-Se debe descragar el documento de word encontrado dentro del repositorio. 
+Se debe descargar el documento de word encontrado dentro del repositorio. 
